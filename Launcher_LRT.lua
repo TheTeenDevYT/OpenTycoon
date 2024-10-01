@@ -1,0 +1,1 @@
+local env = _G
